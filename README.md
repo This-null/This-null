@@ -19,9 +19,9 @@
 </br>
 
 ##
-<span> 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=This-null&show_icons=true&theme=radical" width="%100" height="200px"
-</span>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=britaaaaaxd&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britaaaaaxd&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
+</p>
 
-</a>
