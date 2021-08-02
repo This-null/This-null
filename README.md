@@ -23,9 +23,6 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
-<a href="https://github.com/This-null/cmd-sms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=cmd-sms" />
-</a>
 <a href="https://github.com/This-null/discord-null-guard-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=discord-null-guard-bot" />
 </a>
