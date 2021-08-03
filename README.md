@@ -5,6 +5,7 @@
   <a href="https://github.com/This-null" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/r50plkh431isenoux46tr4shi?si=10251da5eb71499b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/Zeoxll/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
   
  ## Değişik diller falan filan işte bilmiyom tam
@@ -23,9 +24,11 @@
    <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
 <a href="https://github.com/This-null/cmd-sms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=cmd-sms" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=cmd-sms" />
 </a>
 <a href="https://github.com/This-null/discord-null-guard-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=discord-null-guard-bot" />
 </a>
 </p>
+<img align="left" src="https://lanyard-profile-readme.vercel.app/api/311625016276025364" alt"https://discord.com/users/311625016276025364" />
+<img align="right" src="https://lanyard-profile-readme.vercel.app/api/770307586477522964" alt"https://discord.com/users/770307586477522964" />
