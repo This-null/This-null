@@ -31,4 +31,3 @@
 </a>
 </p>
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/311625016276025364" alt"https://discord.com/users/311625016276025364" />
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/770307586477522964" alt"https://discord.com/users/770307586477522964" />
