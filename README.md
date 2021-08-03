@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=This-null)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364)](https://discord.com/users/311625016276025364)
+
 <h1 align="center">🖥  Hi there, I'm Mustafa - aka null 👋</h1>
 <p align="center">
  <a href="https://discord.com/users/311625016276025364" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -30,4 +32,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=discord-null-guard-bot" />
 </a>
 </p>
-
