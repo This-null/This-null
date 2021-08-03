@@ -1,6 +1,5 @@
-![](https://komarev.com/ghpvc/?username=This-null)
+<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364)](https://discord.com/users/311625016276025364)
-
 <h1 align="center">🖥  Hi there, I'm Mustafa - aka null 👋</h1>
 <p align="center">
  <a href="https://discord.com/users/311625016276025364" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -19,7 +18,6 @@
 
 
 </br>
-
 ##
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
