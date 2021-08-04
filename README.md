@@ -30,4 +30,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=This-null&theme=midnight-purple&repo=discord-null-guard-bot" />
 </a>
 </p>
+<h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 <img align="left" src="https://lanyard-profile-readme.vercel.app/api/311625016276025364" alt"https://discord.com/users/311625016276025364" />
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/770307586477522964" alt"https://discord.com/users/770307586477522964" />
