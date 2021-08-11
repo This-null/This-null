@@ -19,11 +19,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </br>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
 <h1 align="center">Discord İletişim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770307586477522964?hideDiscrim=true)](https://discord.com/users/770307586477522964)
+<h2 align="left">📊 GitHub Stats:</h2>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="180px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
