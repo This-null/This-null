@@ -1,5 +1,5 @@
 <h1 align="center">Selam Ben Mustafa - aka null <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-<img src="https://komarev.com/ghpvc/?username=kyranet&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
+<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
 <a href="https://discord.gg/ZVdH5JgfnN" target="_blank" rel="noopener noreferrer"> Discord gel get :) </a>
 <p align="center">
  <a href="https://discord.com/users/311625016276025364" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
