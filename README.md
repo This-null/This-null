@@ -1,4 +1,4 @@
-<h2 align="center">Selam Ben Mustafa - aka null <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">null kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 
 - Ben Mustafa işte amk daha ne anlatayım bilmiyorum
