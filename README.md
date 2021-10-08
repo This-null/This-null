@@ -4,7 +4,7 @@
 - Ben Mustafa işte amk daha ne anlatayım bilmiyorum
 - İnsanları fazla sevmem hepsi kişiyi sömürür işi bitince kenara atar bi nevi nankör orospu evlatları işte
 - Daha ne diyim bi priv gibi bişey var gelirsen canını yerim gelmezsende çokta sikimde yani öyle 
-- Koydum buraya bas gel amk laf yapma [null Priv](https://discord.gg/j4Gc3E7Sy7)
+- Koydum buraya bas gel amk laf yapma [null Priv](https://discord.gg/6a5sVTf8E4)
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
