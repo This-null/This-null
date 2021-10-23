@@ -2,9 +2,7 @@
 
 
 - Ben Mustafa null diye tanıdığınız.
-- İnsanları fazla sevmem hepsi kişiyi sömürür işi bitince kenara atar bi nevi nankör orospu evlatları işte
-- Daha ne diyim bi priv gibi bişey var gelirsen canını yerim gelmezsende çokta sikimde yani öyle 
-- Koydum buraya bas gel amk laf yapma [null Priv](https://discord.gg/marXqBpvxr)
+- Prif falan [null Priv](https://discord.gg/vFzgBfs9d4)
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
