@@ -2,7 +2,9 @@
 
 
 - Ben Mustafa null diye tanıdığınız.
-- Prif falan [null Priv](https://discord.gg/vFzgBfs9d4)
+- İnsanları sevmem sadece ihtiyacı oldukları zaman yanındadırlar.
+- Priv falan gelirsen [Tıkla](https://discord.gg/vFzgBfs9d4)
+
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
@@ -19,5 +21,5 @@
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="180px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%180" height="180px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="180px" />
