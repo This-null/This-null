@@ -1,9 +1,8 @@
 <h2 align="center">null kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 
-- Ben Mustafa null diye tanıdığınız.
-- İnsanları sevmem sadece ihtiyacı oldukları zaman yanındadırlar.
-- Priv falan gelirsen [Tıkla](https://discord.gg/vFzgBfs9d4)
+- kendimden başka kimseyi tanıyamıyorum...
+- Ekip sunucusu gelirsen [Tıkla](https://discord.gg/1002)
 
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
