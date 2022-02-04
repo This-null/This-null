@@ -2,7 +2,7 @@
 
 
 - kendimden başka kimseyi tanıyamıyorum...
-- Ekip sunucusu gelirsen [Tıkla](https://discord.gg/1002)
+- Code Platform sunucusu gelirsen [Tıkla](https://discord.gg/1002)
 
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
