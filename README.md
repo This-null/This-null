@@ -3,7 +3,6 @@
 - Hi I'm Mustafa so null 
 - I love being able to edit and update bots I find in Github repos 
 - rewriting or rewriting is almost the same thing, so I'm not in favor of writing from scratch 
-- I'm learning Python now Javascript is over in my eyes :) 
 - I have opened a resource server for other people to learn their software languages and it is completely free 
 - To join my open source server [Click](https://discord.gg/codeus)
 
