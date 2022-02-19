@@ -4,7 +4,7 @@
 - I love being able to edit and update bots I find in Github repos 
 - rewriting or rewriting is almost the same thing, so I'm not in favor of writing from scratch 
 - I have opened a resource server for other people to learn their software languages and it is completely free 
-- To join my open source server [Click](https://discord.gg/codeus)
+- To join my open source server [Click](https://discord.gg/zN5hjyCBJR)
 
 <h3>🔥 Cool people </h3>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
