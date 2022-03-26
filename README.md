@@ -15,7 +15,7 @@
 - To join my open source server [Click](https://discord.gg/zN5hjyCBJR)
 
 <h3>🔥 Cool people </h3>
-<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=green&style=for-the-badge" alt="This-null"/>
+<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 <h3>🌟 Social media </h3>
 
