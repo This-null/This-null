@@ -14,22 +14,32 @@
 - I have opened a resource server for other people to learn their software languages and it is completely free 
 - To join my open source server [Click](https://discord.gg/zN5hjyCBJR)
 
-<h3>🔥 Cool people </h3>
-<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
+
+<h3 align="center">🔥 Cool people </h3>
+<p align='center'>
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
-<h3>🌟 Social media </h3>
+<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
+</p>
+<h3 align="center">🌟 Social media </h3>
+<p align='center'>
+<a href="https://discord.gg/zN5hjyCBJR">
+<img src= "https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white"/> </a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCNNWyF0MllvAB71bzoDS_BQ">
+<img src= "https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/> </a>&nbsp;&nbsp;
+<a href="https://github.com/This-null">
+<img src= "https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"/> </a>&nbsp;&nbsp;
+<a href="https://instagram.com/alexandresanlim">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
+</p>
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/zN5hjyCBJR)
-[![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCNNWyF0MllvAB71bzoDS_BQ)
-[![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/This-null)
-[![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/zeoxll/)
-
-<h1 align="center"> My Discord accounts <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
-
+## 🐉 Discord Account
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
 
-<h3 align="left">🍒 GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
-<img src="https://github-profile-trophy.vercel.app/?username=This-null&theme=radical" />
+## 🍷 GitHub Stats
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=This-null&theme=gotham&hide_border=true'>
+</p>
+<p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+</p>
