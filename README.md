@@ -17,7 +17,6 @@
 
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
 </p>
 <h3 align="center">🌟 Social media </h3>
