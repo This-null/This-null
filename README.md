@@ -8,11 +8,11 @@
 </p>
 
 
-- Hi I'm Mustafa so null 
-- I love being able to edit and update bots I find in Github repos 
-- rewriting or rewriting is almost the same thing, so I'm not in favor of writing from scratch 
-- I have opened a resource server for other people to learn their software languages and it is completely free 
-- To join my open source server [Click](https://discord.gg/zN5hjyCBJR)
+- Selam dostlar ben Mustafa
+- Discord botlarını veya yaptığım herşeyi zevkine ve eğlencesine yapıyorum.
+- Buraya gelip boş atıcaksanız umursamıyorum bile iyi eğlenceler.
+- Altyapıları falan paylaştığım bir tane sunucum var gelmek isterseniz bırakıyorum buraya.
+- Giriş anahtarın [burada](https://discord.gg/zN5hjyCBJR)
 
 
 <h3 align="center">🔥 Cool people </h3>
