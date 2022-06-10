@@ -8,10 +8,7 @@
 </p>
 
 
-- Selam dostlar ben Mustafa
-- Discord botlarını veya yaptığım herşeyi zevkine ve eğlencesine yapıyorum.
-- Buraya gelip boş atıcaksanız umursamıyorum bile iyi eğlenceler.
-- Altyapıları falan paylaştığım bir tane sunucum var gelmek isterseniz bırakıyorum buraya.
+- Selamlar
 - Giriş anahtarın [burada](https://discord.gg/zN5hjyCBJR)
 
 
