@@ -8,7 +8,8 @@
 </p>
 
 - Tekrardan selam dostlar
-- Bot işlerine devam etmeye karar verdim yardım veya soru için `null#4000`
+- Bot işlerine devam etmeye karar verdim.
+- yardım veya soru için `null#4000`
 
 
 
