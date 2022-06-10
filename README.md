@@ -8,7 +8,8 @@
 </p>
 
 
-- Selamlar
+- Selam dostlar tekrardan merhabalar.
+- Discord sunucusu için anahtar aşşağıda.
 - Giriş anahtarın [burada](https://discord.gg/zN5hjyCBJR)
 
 
