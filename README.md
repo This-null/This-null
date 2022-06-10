@@ -7,10 +7,9 @@
     </a>
 </p>
 
+- Tekrardan selam dostlar
+- Bot işlerine devam etmeye karar verdim yardım veya soru için `null#4000`
 
-- Selam dostlar tekrardan merhabalar.
-- Discord sunucusu için anahtar aşşağıda.
-- Giriş anahtarın [burada](https://discord.gg/zN5hjyCBJR)
 
 
 <h3 align="center">🔥 Cool people </h3>
