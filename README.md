@@ -7,11 +7,13 @@
     </a>
 </p>
 
-- Tekrardan selam dostlar
-- Bot işlerine devam etmeye karar verdim.
+```bash
+- Selam dostlar
+- kendi kafama göre bot editler veya yazarım tamamen keyfi.
 - yardım veya soru için `null#4000`
-
-
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
@@ -25,9 +27,11 @@
 <img src= "https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/> </a>&nbsp;&nbsp;
 <a href="https://github.com/This-null">
 <img src= "https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"/> </a>&nbsp;&nbsp;
-<a href="https://instagram.com/alexandresanlim">
+<a href="https://instagram.com/zeoxll">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
 
 ## 🐉 Discord Account
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
