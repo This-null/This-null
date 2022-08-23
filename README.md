@@ -10,7 +10,6 @@
 - Selam dostlar ben Mustafa
 - kendi kafama göre bot editler veya yazarım tamamen keyfi.
 - yardım veya soru için `null#4000`
-- https://mekcraft.com
 - https://harmonydc.xyz
 
 
