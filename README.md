@@ -1,18 +1,3 @@
-<p align="center">
-    <a href="https://This-null.github.io">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+This+null+🌐"
-            alt="null Official"
-        />
-    </a>
-</p>
-
-- Selam dostlar ben Mustafa
-- kendi kafama göre bot editler veya yazarım tamamen keyfi.
-- yardım veya soru için `null#4000`
-- https://harmonydc.xyz/discord
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
@@ -34,14 +19,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
+
+- `soru` ve `destek` için
+- https://harmonydc.xyz/discord
+
 ## 🐉 Discord Account
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
 
-## 🍷 GitHub Stats
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=This-null&theme=gotham&hide_border=true'>
-</p>
-<p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
-</p>
