@@ -1,10 +1,9 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
 
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
 </p>
+
 <h3 align="center">🌟 Social media </h3>
 <p align='center'>
 <a href="https://discord.gg/zN5hjyCBJR">
@@ -15,14 +14,10 @@
 <img src= "https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"/> </a>&nbsp;&nbsp;
 <a href="https://instagram.com/zeoxll">
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
 
-
-- `soru` ve `destek` için
-- https://harmonydc.xyz/discord
 
 ## 🐉 Discord Account
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
 
