@@ -1,7 +1,7 @@
 
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=B3T0N&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="B3T0N"/>
+<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="This-null"/>
 </p>
 
 <h3 align="center">🌟 Social media </h3>
