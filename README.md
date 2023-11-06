@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 > 🌱 I’m currently learning Javascript <br>
-> 📫 Please email via mustafakrp07@gmail.com to reach me. <br>
+> 📫 Please email via [Mail](https://skydev.com.tr/contact) to reach me. <br>
 > 🌠 <img src="https://komarev.com/ghpvc/?username=This-null&label=Visitors&color=brightgreen&style=plastic" alt="This-null"/></td>
 
 **Languages and Tools:**  
