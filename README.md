@@ -34,8 +34,10 @@
 <table>
   <tr>
 <td align="center" style="padding=0;width=50%;">
+
   
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/769979665224958020)
+
+<img src="https://lanyard.kyrie25.me/api/769979665224958020?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
 
 </table>
    
